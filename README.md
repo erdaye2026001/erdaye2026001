@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I am erdaye2026001 👋
 
-<!--
-**erdaye2026001/erdaye2026001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student. Algorithms and competitive programming. 偶尔写点脚本自动化。
 
-Here are some ideas to get you started:
+**最近在折腾**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SQL 索引选择
+- goroutine 调度器
+
+**这个号的日常**
+
+| 动作 | 次数 |
+| --- | --- |
+| profile | 2 |
+| star | 8 |
+| browse | 8 |
+| watch | 1 |
+| commit | 1 |
+
+<sub>last updated 2026-11-08</sub>
